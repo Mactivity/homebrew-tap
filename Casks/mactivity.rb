@@ -1,6 +1,6 @@
 cask "mactivity" do
-  version "1.0.8"
-  sha256 "169865eb3ef01b2be9e8a2546e34aa35d6ad0eebc4d35453c3ed58ad4979bb6d"
+  version "1.0.9"
+  sha256 "c0c2b95ef196d92d2c213f72247dc7d45be69be15d201afad7fac1dbdef4d1b7"
 
   url "https://mactivity.app/download/Mactivity-#{version}.dmg"
   name "Mactivity"
